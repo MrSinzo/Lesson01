@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* place custom css here */
+
+/* radial gradient is not in tailwind? */
+
+.radial-blue {
+  background: radial-gradient(lightyellow, skyblue)
+}
